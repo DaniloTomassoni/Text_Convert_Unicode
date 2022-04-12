@@ -8,16 +8,10 @@ setup(
     packages = ['text_convert_unicode'],
     description='Text Convert unicode',
     long_description='Function tcu ' + 'show details' + 'show reverse details',
-    classifiers=[
-        'License :: OSI Approved :: LICENSE MIT',
-        'Development Status :: Production/Stable',
-        'Intended Audience :: Developers',
-        'Operating System :: OS Independent',
-        'Programming Language :: Python :: 3.*'
-    ],
     license='MIT',
     platforms=[
         'Windows',
         'Linux'
-    ]
+    ],
+    url="https://github.com/DaniloTomassoni/Text_Convert_Unicode"
 )
